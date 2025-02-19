@@ -4,14 +4,14 @@ Este projeto tem como objetivo explorar as tecnologias utilizadas na construçã
 
 Durante o desenvolvimento, o foco foi em trabalhar com **responsividade**, seguir a documentação adequada e respeitar as diretrizes de boas práticas na criação de páginas web.
 
-# ![alt text](10157988.png) Objetivos
+ # ![alt text](https://github.com/julianamaula/PORTFOLIO/blob/main/assets/10157988.png) Objetivos
 
 - Explorar as principais tecnologias na criação de um site.
 - Estudar a construção de uma página web do zero, começando pela estrutura básica em HTML e estilização com CSS.
 - Aplicar conceitos de responsividade para garantir uma boa experiência em diferentes dispositivos.
 - Respeitar as boas práticas de código e seguir as diretrizes de acessibilidade.
 
-# ![alt text](1448776.png) Tecnologias Utilizadas
+# ![alt text](https://github.com/julianamaula/PORTFOLIO/blob/main/assets/1448776.png) Tecnologias Utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,git,github)](https://skillicons.dev)
 
@@ -23,7 +23,7 @@ Durante o desenvolvimento, o foco foi em trabalhar com **responsividade**, segui
 <br>
 
 
-# ![alt text](contribuicao-3.png)Como Contribuir
+# ![alt text](https://github.com/julianamaula/PORTFOLIO/blob/main/assets/contribuicao-1.png)Como Contribuir
 
 
 
@@ -58,7 +58,7 @@ Contribuições são sempre bem-vindas! Para contribuir com o projeto, siga os s
 <br>
 <br>
 
-# ![alt text](5827678.png)  Licença
+# ![alt text](https://github.com/julianamaula/PORTFOLIO/blob/main/assets/5827678.png)  Licença
 <br>
 
 
