@@ -153,13 +153,10 @@ body{
         padding: 8% 5%;
     }
     .apresentacao__conteudo{
-        width: auto;
+        width: 40%;
     }
     .apresentacao__imagem{
-        width: auto;
-    }
-    .apresentacao__conteudo__titulo_2{
-        justify-content: center;
+        width: 40%;
     }
     
 }
