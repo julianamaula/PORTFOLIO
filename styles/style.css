@@ -140,7 +140,7 @@ body{
     font-weight: 400px;
 
 }
-@media (max-width: 929px ){
+@media (max-width: 900px ){
     .cabecalho{
         padding: 6%;
     }
@@ -153,11 +153,13 @@ body{
         padding: 8% 5%;
     }
     .apresentacao__conteudo{
-        width: 100%;
+        width: auto;
     }
     .apresentacao__imagem{
         width: 100%;
     }
-    
+    .apresentacao__conteudo__titulo_2{
+        justify-content: center;
+    }
     
 }
